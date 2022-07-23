@@ -1,1 +1,1 @@
-Creating a decentrialized version of Rock, Paper, Scissors with the Reach programming Language
+Tutorial of a Rock, Paper, Scissors DAPP using Reach programming Language
